@@ -6,5 +6,3 @@ venue: 'manuscript'
 paperurl: 'https://arxiv.org/abs/1801.00535'
 authors: 'Yuhao Yi, Zhongzhi Zhang, Stacy Patterson'
 ---
-
-<a href='https://arxiv.org/abs/1801.00535'>Download paper here</a>

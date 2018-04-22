@@ -6,5 +6,3 @@ venue: 'IEEE Transactions on Control of Network Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8290709/'
 authors: 'Stacy Patterson, Yuhao Yi, Zhongzhi Zhang'
 ---
-
-<a href='https://ieeexplore.ieee.org/abstract/document/8290709/'>Download paper here</a>

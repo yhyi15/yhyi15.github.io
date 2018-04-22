@@ -6,5 +6,3 @@ venue: 'manuscript'
 paperurl: 'https://arxiv.org/abs/1804.02785'
 authors: '(alphabet order) Huan Li, Stacy Patterson, Yuhao Yi, Zhongzhi Zhang'
 ---
-
-<a href='https://arxiv.org/abs/1804.02785'>Download paper here</a>
