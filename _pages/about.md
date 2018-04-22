@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuhao Yi's homepage. He is a PhD candidate in school of computer science at Fudan University. His research interests include network science, distributed control and spectral graph theory. He plans to graduate in winter 2018 and is looking for postDoc opportunities.
+This is Yuhao Yi's homepage. He is a PhD candidate in school of computer science at Fudan University. His research interests include network science, distributed control, and spectral graph theory. He plans to graduate in winter 2018 and is looking for postDoc opportunities.
