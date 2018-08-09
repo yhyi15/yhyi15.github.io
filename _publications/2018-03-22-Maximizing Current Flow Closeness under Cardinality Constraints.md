@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Current Flow Closeness under Cardinality Constraints"
+title: "Current Flow Group Closeness Centrality for Complex Networks"
 collection: publications
 permalink: /publication/Maximizing Current Flow Closeness under Cardinality Constraints
 venue: 'manuscript'
