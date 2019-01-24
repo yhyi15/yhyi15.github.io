@@ -11,9 +11,9 @@ title                    : "Yuhao Yi (易宇豪)"
 title_separator          : "-"
 name                     : &name "Yuhao Yi"
 description              : &description "PhD candidate at Fudan University"
-url                      : https://haomaoer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yhyi15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "haomaoer/haomaoer.github.io"
+repository               : "yhyi15.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuhao Yi"
-  avatar           : "profile2.png"
+  avatar           : "profile.png"
   bio              : "PhD student in school of Computer Science, Fudan University"
   location         : "Shanghai, China"
   employer         :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "haomaoer"
+  github           : "yhyi15"
   google_plus      :
   keybase          :
   instagram        :
