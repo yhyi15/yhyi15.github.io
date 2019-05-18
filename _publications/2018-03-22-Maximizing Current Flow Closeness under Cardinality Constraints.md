@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/Maximizing Current Flow Closeness under Cardinality Constraints
 venue: 'WWW-2019'
 paperurl: 'https://arxiv.org/abs/1802.02556'
-authors: 'Huan Li, Richard Peng, Liren Shan, Yuhao Yi, Zhongzhi Zhang'
+authors: '(α-β ordering) Huan Li, Richard Peng, Liren Shan, Yuhao Yi, Zhongzhi Zhang'
 ---
