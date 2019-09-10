@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Yuhao Yi"
-#  avatar           : "profile.png"
+  avatar           : 
   bio              : "PosdDoc in CS, RPI"
-  location         : "Shanghai, China"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yHRKAt8AAAAJ&view_op=list_works&sortby=pubdate"
   email            : "scyuhao<at>gmail<dot>com"
