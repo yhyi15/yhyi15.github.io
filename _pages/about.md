@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Yuhao Yi's homepage. He is a postdoctoral researcher in CS at RPI. He got his PhD from CS at Fudan University in 2019. His research interests include network science, distributed control, and spectral graph theory.
+This is Yuhao Yi's homepage. I am a postdoctoral researcher in CS at RPI, advised by Dr. Stacy Patterson. I got my PhD from CS at Fudan University in 2019, advised by Dr. Zhongzhi Zhang. My research interests include network science, distributed control, and spectral graph theory.
 
-I'm looking for postdoc opportunities starting next year. Here is my <u><a href="https://yhyi15.github.io/files/yhy_cv2.pdf">CV</a></u>.
+I'm looking for postdoc opportunities. Here is my <u><a href="https://yhyi15.github.io/files/yhy_cv2.pdf">CV</a></u>.
