@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuhao Yi (易宇豪)"
 title_separator          : "-"
 name                     : &name "Yuhao Yi"
-description              : &description "PostDoc in RPI"
+description              : &description "PostDoc in KTH"
 url                      : https://yhyi15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yhyi15.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Yuhao Yi"
   avatar           : "profile4.png"
-  bio              : "PostDoc in CS, RPI"
+  bio              : "PostDoc in CS, KTH"
   location         :
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=yHRKAt8AAAAJ&view_op=list_works&sortby=pubdate"
