@@ -1,8 +1,8 @@
 ---
-title: "Shifting Opinions in a Social Network through Leader Selection (to appear)"
+title: "Shifting Opinions in a Social Network through Leader Selection"
 collection: publications
 permalink: /publication/Shifting Opinions in a Social Network through Leader Selection
-venue: 'IEEE Transactions on Control of Network Systems'
+venue: 'IEEE Transactions on Control of Network Systems (to appear)'
 paperurl: 'https://arxiv.org/abs/1910.13009'
 authors: 'Yuhao Yi, Timothy Castiglia, Stacy Patterson'
 ---
