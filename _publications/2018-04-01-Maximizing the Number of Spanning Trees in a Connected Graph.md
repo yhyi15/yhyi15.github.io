@@ -4,5 +4,5 @@ collection: publications
 permalink: /publication/Maximizing the Number of Spanning Trees in a Connected Graph
 venue: 'IEEE Transactions on Information Theory'
 paperurl: 'https://ieeexplore.ieee.org/document/8831406'
-authors: '(α-β ordering) Huan Li, Stacy Patterson, Yuhao Yi, Zhongzhi Zhang'
+authors: 'Huan Li, Stacy Patterson, Yuhao Yi, Zhongzhi Zhang'
 ---

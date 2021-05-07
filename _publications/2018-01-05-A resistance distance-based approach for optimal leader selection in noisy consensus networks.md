@@ -1,5 +1,5 @@
 ---
-title: "A resistance distance-based approach for optimal leader selection in noisy consensus networks"
+title: "A Resistance Distance-Based Approach for Optimal Leader Selection in Noisy Consensus Networks"
 collection: publications
 permalink: /publication/A resistance distance-based approach for optimal leader selection in noisy consensus networks
 venue: 'IEEE Transactions on Control of Network Systems'
