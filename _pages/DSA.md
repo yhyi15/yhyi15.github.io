@@ -15,11 +15,11 @@ author_profile: False
 
 **Lectures** Monday 13:50 - 16:25, Week 1-16, C104, Teaching Building No.1, Jiangan Campus
 
-##Course Description
+## Course Description
 
 This course introduces commonly used data structures and algorithms, along with basic analysis techniques.
 This is a CS2-level course. Although this is not a course to teach programming, there will be coding assignments and on-site lab classes.
 
--[Course Syllabus](https://kdocs.cn/l/cuDUqaqUpPpL)
--[Schedule](https://kdocs.cn/l/cgzWd0rcbUOj)
--[Textbook Errata](https://people.cs.vt.edu/~shaffer/Book/errata.html)
+- [Course Syllabus](https://kdocs.cn/l/cuDUqaqUpPpL)
+- [Schedule](https://kdocs.cn/l/cgzWd0rcbUOj)
+- [Textbook Errata](https://people.cs.vt.edu/~shaffer/Book/errata.html)
