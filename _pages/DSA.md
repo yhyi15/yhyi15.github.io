@@ -5,8 +5,6 @@ permalink: /DSA
 page.sidebar: false
 ---
 
-{% include base_path %}
-
 ## Course Information
 
 **Instructor:** Yuhao Yi (yuhaoyi@scu.edu.cn)
