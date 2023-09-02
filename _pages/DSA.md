@@ -1,5 +1,5 @@
 ---
-layout: widelayout
+layout: course
 title: "311116030: Data Structures and Algorithm Analysis"
 permalink: /DSA
 page.sidebar: false
