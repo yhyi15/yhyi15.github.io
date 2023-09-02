@@ -7,8 +7,6 @@ venue: "Sichuan University, Software Engineering"
 date: 2023-09-01
 location: "Chengdu, China"
 ---
+- [link to course page](/teaching/DSA)
 
-Introduction to commonly used data structures, algorithms, and their basic analysis tools.
-
-Data Structures and Algorithm Analysis
 ======

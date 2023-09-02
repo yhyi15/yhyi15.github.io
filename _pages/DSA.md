@@ -1,9 +1,11 @@
 ---
 layout: course
 title: "311116030: Data Structures and Algorithm Analysis"
-permalink: /DSA
+permalink: /teaching/DSA
 page.sidebar: false
 ---
+
+{% include base_path %}
 
 ## Course Information
 
