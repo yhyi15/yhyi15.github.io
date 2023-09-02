@@ -13,7 +13,7 @@ page.sidebar: false
 
 **TA:** Yixuan Liu
 
-**Lectures** Monday 13:50 - 16:25, Week 1-16, C104, Teaching Building No.1, Jiangan Campus
+**Lectures** Monday 13:50 - 16:25, Week 1-16, C104, Teaching Building No.1, Jiang'an Campus
 
 ## Course Description
 
