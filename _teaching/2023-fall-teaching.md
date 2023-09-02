@@ -10,5 +10,5 @@ location: "Chengdu, China"
 
 Introduction to commonly used data structures, algorithms, and their basic analysis tools.
 
-- [Data Structures and Algorithm Analysis](/course/DSA.html)
+Data Structures and Algorithm Analysis
 ======

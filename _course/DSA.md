@@ -1,14 +1,14 @@
 ---
 layout: whidelayout
-title: "Data Structures and Algorithm Analysis"
-permalink: /course/DSA.html
+title: "311116030: Data Structures and Algorithm Analysis"
+permalink: /course/DSA
 author_profile: False
 ---
 
 ## Course Info
 ** Instructor:** Yuhao Yi (yuhaoyi@scu.edu.cn)
 
-*TA:* Yixuan Liu
+** TA:** Yixuan Liu
 
 **Lectures** Monday 13:50 - 16:25, Week 1-16, C104, Teaching Building No.1, Jiangan Campus
 
