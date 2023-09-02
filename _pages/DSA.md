@@ -1,7 +1,7 @@
 ---
 layout: whidelayout
 title: "311116030: Data Structures and Algorithm Analysis"
-permalink: /course/DSA
+permalink: /DSA
 author_profile: False
 ---
 
