@@ -18,7 +18,7 @@ page.sidebar: false
 ## Course Description
 
 This course introduces commonly used data structures and algorithms, along with basic analysis techniques.
-Although this is not a course for programming, there will be coding assignments and on-site lab classes.
+Although this is not a course for programming, there will be coding assignments. To take the course you need basic skills for programming.
 
 - [Course Syllabus](https://kdocs.cn/l/cuDUqaqUpPpL)
 - [Schedule](https://kdocs.cn/l/cgzWd0rcbUOj)
