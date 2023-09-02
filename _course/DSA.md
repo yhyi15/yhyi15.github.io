@@ -3,9 +3,9 @@ layout: whidelayout
 title: "311116030: Data Structures and Algorithm Analysis"
 permalink: /course/DSA
 author_profile: False
+---
 
 {% include base_path %}
----
 
 ## Course Info
 ** Instructor:** Yuhao Yi (yuhaoyi@scu.edu.cn)
