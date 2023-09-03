@@ -11,13 +11,13 @@ page.sidebar: false
 
 **Instructor:** Dr. Yuhao Yi (yuhaoyi@scu.edu.cn)
 
-**TA:** Yixuan Liu
+**TA:** Yixuan Liu (2018151611018@stu.scu.edu.cn)
 
-**Lectures** Monday 13:50 - 16:25, Week 1-16, C104, 1st Teaching Building, Jiang'an Campus
+**Lectures:** Monday 13:50 - 16:25, Weeks 1-16, @ C104, 1st Teaching Building, Jiang'an Campus
 
 ## Course Description
 
-This course introduces commonly used data structures and algorithms, along with basic analysis techniques.
+This course introduces commonly used data structures and algorithms, along with basic analytic techniques.
 Although this is not a course to teach programming, there will be coding assignments. To take the course, students should have basic coding skills.
 
 - [Course Syllabus](https://kdocs.cn/l/cuDUqaqUpPpL)
