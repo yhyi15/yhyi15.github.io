@@ -7,6 +7,6 @@ venue: "Sichuan University, Software Engineering"
 date: 2023-09-01
 location: "Chengdu, China"
 ---
-- [link to course page](/teaching/DSA)
+- [link to the course page](/teaching/DSA)
 
 ======
