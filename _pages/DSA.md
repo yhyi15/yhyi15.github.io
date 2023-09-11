@@ -31,7 +31,7 @@ Send homework to the email of the TA. Filenames should be formatted as Homework#
 Replace #, StudentNumber, and Name with the homework number, your student id, and your name.\
 Each assignment should be summited using a separate file. All deadlines are Beijing time (GMT+8).
 
-**Homework 1 and 2** is due at 11:59 pm, Sep. 24.
+**Homework 1 and 2** are due at 11:59 pm, Sep. 24.
 
 
 ## Project
