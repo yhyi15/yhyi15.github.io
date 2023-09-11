@@ -18,7 +18,8 @@ page.sidebar: false
 ## Course Description
 
 This course introduces commonly used data structures and algorithms, along with basic analytic techniques.\
-Although this is not a course to teach programming, there will be coding assignments. To take the course, students should have basic coding skills.
+Although this is not a course to teach programming, there will be coding assignments.\
+To take the course, students should have basic coding skills.
 
 - [Course Syllabus](https://kdocs.cn/l/cuDUqaqUpPpL)
 - [Schedule](https://kdocs.cn/l/cgzWd0rcbUOj)
@@ -26,7 +27,7 @@ Although this is not a course to teach programming, there will be coding assignm
 
 ## Homework
 
-Send homework to the email of the TA. Filenames should formatted as Homework#-StudentNumber-Name.doc.\
+Send homework to the email of the TA. Filenames should be formatted as Homework#-StudentNumber-Name.doc.\
 Replace #, StudentNumber, and Name with the homework number, your student id, and your name.\
 Each assignment should be summited using a separate file. All deadlines are Beijing time (GMT+8).
 
