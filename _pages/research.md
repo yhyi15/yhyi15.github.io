@@ -12,5 +12,5 @@ author_profile: true
 
 ## 参与过的项目 (Participated Projects)
 * **复杂网络中的偏好随机游走及其应用** NSFC (China)
-* **Towards a machine learning framework for the internet of things** NSF (USA)
+* **Toward A Machine Learning Framework for the Internet of Things** NSF (USA)
 * **HiSS: Humanizing the Sustainable Smart City** Digital Futures (Sweden)
