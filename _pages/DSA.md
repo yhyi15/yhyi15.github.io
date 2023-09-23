@@ -15,9 +15,8 @@ page.sidebar: false
 
 **Lectures:** Monday 13:50 - 16:25, Weeks 1-16, @ C104, 1st Teaching Building, Jiang'an Campus
 
-**Office hours (online)** Friday 13:30-14:30
-Tencent Meeting\
-Link: https://meeting.tencent.com/dm/YPdLiMMw79eP\
+**Office hour (online):** Friday 13:30-14:30\\
+Tencent Meeting: [Link](https://meeting.tencent.com/dm/YPdLiMMw79eP)\
 Password: binary representation of the number 42
 
 ## Course Description
