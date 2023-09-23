@@ -15,6 +15,11 @@ page.sidebar: false
 
 **Lectures:** Monday 13:50 - 16:25, Weeks 1-16, @ C104, 1st Teaching Building, Jiang'an Campus
 
+**Office hours (online)** Friday 13:30-14:30
+Tencent Meeting\
+Link: https://meeting.tencent.com/dm/YPdLiMMw79eP\
+Password: binary representation of the number 42
+
 ## Course Description
 
 This course introduces commonly used data structures and algorithms, along with basic analytic techniques.\
@@ -27,11 +32,12 @@ To take the course, students should have basic coding skills.
 
 ## Homework
 
-Send homework to the email of the TA. Filenames should be formatted as Homework#-StudentNumber-Name.doc.\
-Replace #, StudentNumber, and Name with the homework number, your student id, and your name.\
+Send homework to the email of the TA. Filenames should be formatted as #Homework-StudentNumber-Name.doc.\
+Replace #, StudentNumber, and Name with the ordinal number of the homework, your student id, and your name.\
 Each assignment should be summited using a separate file. All deadlines are Beijing time (GMT+8).
 
 **Homework 1 and 2** are due at 11:59 pm, Sep. 24.
+**Homework 3** is due at 11:59 pm, Oct. 8.
 
 
 ## Project
