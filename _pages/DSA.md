@@ -37,6 +37,8 @@ Each assignment should be summited using a separate file. All deadlines are Beij
 
 **Homework 1 and 2** are due at 11:59 pm, Sep. 24.\
 **Homework 3** is due at 11:59 pm, Oct. 8.
+**Homework 3** is due at 11:59 pm, Nov. 12.
+**Homework 3** is due at 11:59 pm, Dec. 3.
 
 
 ## Project
