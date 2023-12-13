@@ -6,4 +6,4 @@ venue: 'CDC &apos;22'
 paperurl: 'https://ieeexplore.ieee.org/document/9993257'
 authors: 'Yuhao Yi, Yuan Wang, Xingkang He, Stacy Patterson, Karl H Johansson'
 ---
-<u><a href="https://yhyi15.github.io/files/CDC_381.mp4">[video]</a></u>, <u><a href="https://yhyi15.github.io/files/slides_381.pdf">[slides]</a></u>
+<u><a href="https://yhyi15.github.io/files/slides_381.pdf">[slides]</a></u>
