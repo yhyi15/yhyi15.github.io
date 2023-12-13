@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Chengdu, Sichuan"
 ---
 
-计算机操作系统
+计算机操作系统 (Operating Systems)
 
 操作系统原理
 ======
