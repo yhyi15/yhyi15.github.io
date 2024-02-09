@@ -2,7 +2,7 @@
 title: "Disagreement and Polarization in Two-Party Social Networks"
 collection: publications
 permalink: /publication/Disagreement and Polarization in Two-Party Social Networks
-venue: 'IFAC &apos;20'
+venue: 'IFAC &apos;20（清华重要国际会议目录：自动化A类）'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405896320305838'
 authors: 'Yuhao Yi, Stacy Patterson'
 ---

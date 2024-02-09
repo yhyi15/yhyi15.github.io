@@ -2,7 +2,7 @@
 title: "A Sample-Based Algorithm for Approximately Testing r-Robustness of a Digraph"
 collection: publications
 permalink: /publication/A Sample-Based Algorithm for Approximately Testing r-Robustness of a Digraph
-venue: 'CDC &apos;22'
+venue: 'CDC &apos;22（清华重要国际会议目录：自动化顶尖）'
 paperurl: 'https://ieeexplore.ieee.org/document/9993257'
 authors: 'Yuhao Yi, Yuan Wang, Xingkang He, Stacy Patterson, Karl H Johansson'
 ---
