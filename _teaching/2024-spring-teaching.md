@@ -4,12 +4,9 @@ collection: teaching
 type: "本科生课程"
 permalink: /teaching/2023-spring-teaching
 venue: "四川大学 计算机学院"
-date: 2023-01-01
+date: 2024-02-27
 location: "Chengdu, Sichuan"
 ---
+- [课程链接](/teaching/DSA)
 
-- [link to the course page](/teaching/OS)
-======
-
-操作系统课程设计
 ======
