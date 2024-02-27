@@ -20,3 +20,4 @@ page.sidebar: false
 ## Course Description
 
 - [Course Syllabus](https://kdocs.cn/l/cvXEWol6FSpu)
+- [课程安排](https://kdocs.cn/l/ckPfDATkk5pz)
