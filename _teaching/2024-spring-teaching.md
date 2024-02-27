@@ -7,6 +7,6 @@ venue: "四川大学 计算机学院"
 date: 2024-02-27
 location: "Chengdu, Sichuan"
 ---
-- [课程链接](/teaching/DSA)
+- [课程链接](/teaching/OS)
 
 ======
