@@ -7,6 +7,6 @@ venue: "四川大学 计算机学院"
 date: 2023-01-01
 location: "Chengdu, Sichuan"
 ---
-
+专业核心课，必修
 
 ======
