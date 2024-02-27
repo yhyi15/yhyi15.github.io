@@ -7,17 +7,19 @@ page.sidebar: false
 
 {% include base_path %}
 
-## Course Information
+## 课程信息
 
-**Instructor:** Dr. Yuhao Yi (yuhaoyi@scu.edu.cn)
+**任课教师:** 易宇豪 (yuhaoyi@scu.edu.cn)
 
-**TA:** 李佳荣 (1126638066@qq.com)\
+**助教:** 李佳荣 (1126638066@qq.com)\
 李杨浩（418268753@qq.com）
 
-**Lectures:** 周二 13:50 - 16:25, 1-16周, 江安校区综合楼B407
+**理论课:** 周二 13:50 - 16:25, 1-16周, 江安校区综合楼B407
 
 
-## Course Description
+## 课程描述
 
-- [Course Syllabus](https://kdocs.cn/l/cvXEWol6FSpu)
+本科核心课程，3学分理论+1学分实验
+
+- [课程基本信息](https://kdocs.cn/l/cvXEWol6FSpu)
 - [课程安排](https://kdocs.cn/l/ckPfDATkk5pz)
