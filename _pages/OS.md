@@ -19,7 +19,11 @@ page.sidebar: false
 
 ## 课程描述
 
-本科核心课程，3学分理论+1学分实验
+- 本科核心课程，3学分理论+1学分实验
 
 - [课程基本信息](https://kdocs.cn/l/cvXEWol6FSpu)
 - [课程安排](https://kdocs.cn/l/ckPfDATkk5pz)
+
+## 相关资源
+
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
