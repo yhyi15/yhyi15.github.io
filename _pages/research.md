@@ -12,5 +12,6 @@ author_profile: true
 
 ## 参与过的项目 (Participated Projects)
 * **复杂网络中的偏好游走及其应用** NSFC (China)
+* **并行化和空间高效的参数算法** NSFC (China)
 * **Toward A Machine Learning Framework for the Internet of Things** NSF (USA)
 * **HiSS: Humanizing the Sustainable Smart City** Digital Futures (Sweden)
