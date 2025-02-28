@@ -18,7 +18,7 @@ I am fortunate to work with the following amazing students:
 ### 本科生 (Undergraduates)
 * 李依蔓 (Yiman Li)
 
-### 已毕业 (Former Students with academic collaboration)
+### 已毕业 (Former students with academic collaborations)
 * 游家迪 (Jiadi You), currently at HKUST (Guangzhou)
 * 王世杰 (Shijie Wang), currently at CUHK
 
