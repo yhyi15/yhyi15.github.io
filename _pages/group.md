@@ -35,6 +35,6 @@ In recent two years, I actively collaborate with the following researchers from 
 * 单立人 (Liren Shan) @TTIC, Chicago
 * 单洪明 (Hongming Shan) @Fudan, Shanghai
 * 汪渊 (Yuan Wang) @HNU, Changsha
-* 游蓉辉 (Ronghui You) @Nankai, Tianjin
+* 游榕辉 (Ronghui You) @Nankai, Tianjin
 
 
