@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-## I am fortunate to work with the following amazing students:
+I am fortunate to work with the following amazing students:
 
 ### 研究生 (Graduate Student)
 * 李杨浩 (Yanghao Li)
@@ -20,12 +20,14 @@ author_profile: true
 * 游家迪 (Jiadi You), currently at HKUST (Guangzhou)
 * 王世杰 (Shijie Wang), currently at CUHK
 
-## I also collaborate with the following gifted young researchers from the West China Medical School:
+---
+I also collaborate with the following gifted young researchers from the West China Medical School:
 * 尹婷 (Ting Yin)
 * 吴小艳 (Xiaoyan Wu)
 * 张文川 (Wenchuan Zhang)
 
-## In recent two years, I actively collaborate with the following researchers from other institutes. I have gained a lot from our interactions.
+---
+In recent two years, I actively collaborate with the following researchers from other institutes. I have gained a lot from our interactions.
 
 * 刘昌鑫 (Changxin Liu) @ECUST, Shanghai
 * 单立人 (Liren Shan) @TTIC, Chicago
