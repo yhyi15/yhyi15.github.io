@@ -23,7 +23,7 @@ I am fortunate to work with the following amazing students:
 * 王世杰 (Shijie Wang), currently at CUHK
 
 ---
-I also collaborate with the following gifted young researchers from the West China Medical School:
+I also collaborate with the following gifted young researchers from the West China Hospital:
 * 尹婷 (Ting Yin)
 * 吴小艳 (Xiaoyan Wu)
 * 张文川 (Wenchuan Zhang)
