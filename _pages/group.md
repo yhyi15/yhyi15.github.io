@@ -17,6 +17,7 @@ I am fortunate to work with the following amazing students:
 
 ### 本科生 (Undergraduates Interns)
 * 李依蔓 (Yiman Li), Computer Science at SCU
+* 石田雨 (Tianyu Shi), Computer Science at SCU
 * 张鹏浩 (Penghao Zhang), Cyber Science at SCU
 * 郭静如 (Jingru Guo), Math at Utoronto
 
@@ -30,7 +31,7 @@ w/o coauthored papers
 * 郭奕辰 (Yichen Guo), 2025, UESTC, incoming PhD at NTU
 
 ---
-I also collaborate with the following gifted young researchers from the West China Hospital:
+I also collaborate with the following gifted young researchers from West China Hospital:
 * 尹婷 (Ting Yin)
 * 吴小艳 (Xiaoyan Wu)
 * 张文川 (Wenchuan Zhang)
