@@ -25,6 +25,7 @@ I am fortunate to work with the following amazing students:
 w/ coauthored papers
 * 王世杰 (Shijie Wang), 2023-2025, currently Masters at CUHK
 * 游家迪 (Jiadi You), 2024, UESTC, currently Masters at HKUST (Guangzhou)
+
 w/o coauthored papers
 * 郭奕辰 (Yichen Guo), 2025, UESTC, incoming PhD at NTU
 
