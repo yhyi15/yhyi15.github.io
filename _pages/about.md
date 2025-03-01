@@ -12,4 +12,4 @@ I am a Researcher at Sichuan University, China. I was a postdoc in EECS/DCS at K
 
 I have broad research interests ranging from foundations in computer science to trends in artificial intelligence. During my PhD and postdocs, I primarily work in decision making algorithms in network systems, e.g. network control systems, distributed learning systems, social networks, and epidemic spreading. Proving theorems was a significant part of my previous work.
 
-After joining Sichuan University, my research foci have shifted to Machine Leanring and its applications. I am fortunate to work with the [DICA](https://github.com/dicalab-scu) team. We aim to build reliable models from data using GPUs, and provide guarantees whenever possible. Recently, I work on computational pathology and trustworthy AI systems.
+After joining Sichuan University, my research foci have shifted to Machine Leanring and its applications. I am fortunate to work with the big [DICA](https://github.com/dicalab-scu) team. Our group aims to build reliable models from data using GPUs, and provide guarantees whenever possible. Recently, I work on computational pathology and trustworthy AI systems.
