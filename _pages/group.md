@@ -23,7 +23,7 @@ I am fortunate to work with the following amazing students:
 
 ### 合作过 (Former students and interns)
 w/ coauthored papers
-* 王世杰 (Shijie Wang), 2023-2025, currently Masters at CUHK
+* 王世杰 (Shijie Wang), 2023-2025, SCU, currently Masters at CUHK
 * 游家迪 (Jiadi You), 2024, UESTC, currently Masters at HKUST (Guangzhou)
 
 w/o coauthored papers
