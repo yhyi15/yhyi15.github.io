@@ -15,7 +15,7 @@ I am fortunate to work with the following amazing students:
 * 牟柄安 (Bingan Mu)
 * 舒琛 (Chen Shu): VLM; Multiple instance learning
 
-### 本科生 (Undergraduates Interns)
+### 本科生 (Undergraduate Interns)
 * 李依蔓 (Yiman Li), Computer Science at SCU
 * 石田雨 (Tianyu Shi), Computer Science at SCU
 * 张鹏浩 (Penghao Zhang), Cyber Science at SCU
