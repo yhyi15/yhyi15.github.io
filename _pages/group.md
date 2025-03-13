@@ -28,7 +28,7 @@ w/ coauthored papers
 * 游家迪 (Jiadi You), 2024, UESTC, currently Masters at HKUST (Guangzhou)
 
 w/o coauthored papers
-* 郭奕辰 (Yichen Guo), 2025, UESTC, incoming PhD at NTU
+* 郭奕辰 (Yichen Guo), 2025, UESTC, incoming Masters at NTU
 
 ---
 I also collaborate with the following gifted young researchers from West China Hospital:
