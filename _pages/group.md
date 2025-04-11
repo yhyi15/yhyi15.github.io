@@ -12,8 +12,8 @@ I am fortunate to work with the following amazing students:
 ### 研究生 (Graduate Student)
 * 李杨浩 (Yanghao Li): Robust and communication efficient distributed learning
 * 刘红 (Hong Liu), co-advised: Federated learning; Multimodal survival analysis
-* 牟柄安 (Bingan Mu)
-* 舒琛 (Chen Shu): VLM; Multiple instance learning
+* 牟柄安 (Bingan Mu): calibration of LVLMs
+* 舒琛 (Chen Shu): VLMs; Multiple instance learning
 
 ### 本科生 (Undergraduate Interns)
 * 李依蔓 (Yiman Li), Computer Science at SCU
@@ -44,5 +44,3 @@ In recent two years, I actively collaborate with the following researchers from 
 * [单立人 (Liren Shan)](https://lirenshan.github.io/) @TTIC, Chicago: Theory
 * 汪渊 (Yuan Wang) @HNU, Changsha: Robotics
 * 游榕辉 (Ronghui You) @Nankai, Tianjin: Bioinformatics
-
-
