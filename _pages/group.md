@@ -12,7 +12,7 @@ I am fortunate to work with the following amazing students:
 ### 研究生 (Graduate Student)
 * 李杨浩 (Yanghao Li): Robust and communication efficient distributed learning
 * 刘红 (Hong Liu), co-advised: Federated learning; Multimodal survival analysis
-* 牟柄安 (Bingan Mu): calibration of LVLMs
+* 牟柄安 (Bingan Mu): Calibration of LVLMs
 * 舒琛 (Chen Shu): VLMs; Multiple instance learning
 
 ### 本科生 (Undergraduate Interns)
