@@ -16,10 +16,10 @@ I am fortunate to work with the following amazing students:
 * 舒琛 (Chen Shu): VLMs; Multiple instance learning
 
 ### 本科生 (Undergraduate Interns)
-* 李依蔓 (Yiman Li), Computer Science at SCU
+* 李依蔓 (Yiman Li), Computer Science at SCU, admitted to CUHK
 * 石田雨 (Tianyu Shi), Computer Science at SCU
-* 张鹏浩 (Penghao Zhang), Cyber Science at SCU
-* 郭静如 (Jingru Guo), Math at Utoronto
+* 张鹏浩 (Penghao Zhang), Cyber Science at SCU, incoming  Ph.D. at PolyU@HK
+* 郭静如 (Jingru Guo), Math at Utoronto, incoming Masters at Imperial College
 
 
 ### 合作过 (Former students and interns)
