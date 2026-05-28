@@ -1,5 +1,5 @@
 ---
-title: "医学人工智能相关专题授课 - 2026"
+title: "医学人工智能相关专题 - 2026"
 collection: teaching
 type: "研究生/本科课程专题授课"
 permalink: /teaching/2026-teaching
