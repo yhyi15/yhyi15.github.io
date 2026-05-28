@@ -46,4 +46,4 @@ In recent two years, I actively collaborate with the following researchers from 
 * [单洪明 (Hongming Shan)](hmshan.io) @Fudan, Shanghai: Medical Imaging
 * [单立人 (Liren Shan)](https://lirenshan.github.io/) @TTIC, Chicago: Theory
 * 汪渊 (Yuan Wang) @HNU, Changsha: Robotics
-* 游榕辉 (Ronghui You) @Nankai, Tianjin: Bioinformatics
+* 游榕晖 (Ronghui You) @Nankai, Tianjin: Bioinformatics
