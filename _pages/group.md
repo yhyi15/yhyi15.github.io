@@ -14,6 +14,8 @@ I am fortunate to work with the following amazing students:
 * 刘红 (Hong Liu), co-advised: Federated learning; Multimodal survival analysis
 * 牟柄安 (Bingan Mu): Calibration of LVLMs; Inference
 * 舒琛 (Chen Shu): VLMs; Multiple instance learning
+* 乔白滪 (Baiyu Qiao)
+* 王一晨 (Yichen Wang), co-advised: Diffusion
 
 ### 本科生 (Undergraduate Interns)
 * 石田雨 (Tianyu Shi), Computer Science at SCU
