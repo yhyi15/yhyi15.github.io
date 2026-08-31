@@ -26,13 +26,13 @@ I am fortunate to work with the following amazing students:
 
 
 ### 合作过 (Former students and interns)
+* 李丹宁 (Danning Li), McGill, currently at HKUST (Guangzhou)
+* 石田雨 (Tianyu Shi), Computer Science at SCU
 * 王世杰 (Shijie Wang), 2023-2025, SCU, currently Master at CUHK
 * 游家迪 (Jiadi You), 2024, UESTC, currently Masters at HKUST (Guangzhou)
 * 李依蔓 (Yiman Li), Computer Science at SCU, admitted to CUHK
 * 郭静如 (Jingru Guo), Math at Utoronto, incoming Master at Imperial College
 * 张鹏浩 (Penghao Zhang), Cyber Science at SCU, incoming Ph.D. at PolyU@HK
-* 石田雨 (Tianyu Shi), Computer Science at SCU
-* 李丹宁 (Danning Li), McGill, currently at HKUST (Guangzhou)
 * 郭奕辰 (Yichen Guo), 2025, UESTC, incoming Master at NTU
 
 ---
