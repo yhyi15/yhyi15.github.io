@@ -25,7 +25,7 @@ I am fortunate to work with the following amazing students:
 
 
 
-### 合作过 (Former students and interns)
+### 实习生 (Interns)
 * 李丹宁 (Danning Li), McGill, currently at HKUST (Guangzhou)
 * 石田雨 (Tianyu Shi), Computer Science at SCU
 * 王世杰 (Shijie Wang), 2023-2025, SCU, currently Master at CUHK
